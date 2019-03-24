@@ -6,6 +6,10 @@
 
 # Review
 
+[每个程序员都应该了解的内存知识，Part 1 - 简介](https://www.jianshu.com/p/a5719a4cee68)
+
+该文章适合有点硬件基础的读者阅读，作者试图阐明编程时硬件对软件性能的影响。
+
 # Tip
 
 linux上看日志的方法：
@@ -65,3 +69,5 @@ ma - 使用 a 标记文本的当前位置
 'a - 导航到标记 a 处
 
 # Share
+
+[JDK1.8 ArrayDeque源码阅读](https://blog.csdn.net/maijia0754/article/details/86583183)
